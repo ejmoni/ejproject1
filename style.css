@@ -1,0 +1,19 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 2em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#horizontal-underline{
+    position:absolute;
+    width:0%;
+    background-color: pink;
+    top: 0px;
+    left: 0px;
+    height: 0px;
+}
